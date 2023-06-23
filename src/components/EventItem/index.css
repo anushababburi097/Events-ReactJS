@@ -1,0 +1,33 @@
+/* Write your CSS here */
+
+.event-img {
+  height: 139px;
+}
+.event-name {
+  color: #ffff;
+  font-weight: bold;
+  font-family: 'Roboto';
+  font-size: 22px;
+}
+.event-location {
+  color: #ffff;
+  font-weight: bold;
+  font-family: 'Roboto';
+  font-size: 17px;
+}
+.event-list {
+  list-style: none;
+  margin-left: 12px;
+  margin-right: 12px;
+}
+.btn {
+  background: transparent;
+  border: none;
+  padding: 0px;
+  outline: none;
+  cursor: pointer;
+}
+.active {
+  border: 2px solid #2dd4bf;
+  border-radius: 12px;
+}
